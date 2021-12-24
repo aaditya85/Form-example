@@ -65,6 +65,7 @@ body{
     width: 150px;
     height: 25px;
 border-radius: 5px;
+border-color: blue;
 }
 .header{
     width: 100%;
